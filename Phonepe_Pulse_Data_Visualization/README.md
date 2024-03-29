@@ -1,10 +1,10 @@
-**Phonepe Pulse Data Visualization and Exploration : A User-Friendly Tool Using Streamlit and Plotly**
+# **Phonepe Pulse Data Visualization and Exploration : A User-Friendly Tool Using Streamlit and Plotly**
 
-**Problem Statement:** The Phonepe pulse Github repository contains a large amount of data related to
+## **Problem Statement:** The Phonepe pulse Github repository contains a large amount of data related to
 various metrics and statistics. The goal is to extract this data and process it to obtain
 insights and information that can be visualized in a user-friendly manner.
 
-**Libraries/Modules needed for the project!**
+## **Libraries/Modules needed for the project!**
 
 1.Plotly - (To plot and visualize the data)
 
