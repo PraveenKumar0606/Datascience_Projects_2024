@@ -1,8 +1,8 @@
-**YOUTUBE-DATA-HARVESTING-AND-WAREHOUSING**
+# **YOUTUBE-DATA-HARVESTING-AND-WAREHOUSING**
 
-**Problem Statement:**  YouTube Data Harvesting and Warehousing is a project that intends to provide users with the ability to access and analyse data from numerous YouTube channels. SQL, MongoDB, and Streamlit are used in the project to develop a user-friendly application that allows users to retrieve, save, and query YouTube channel and video data.
+## **Problem Statement:**  YouTube Data Harvesting and Warehousing is a project that intends to provide users with the ability to access and analyse data from numerous YouTube channels. SQL, MongoDB, and Streamlit are used in the project to develop a user-friendly application that allows users to retrieve, save, and query YouTube channel and video data.
 
-**TOOLS AND LIBRARIES USED:** This project requires the following components:
+## **TOOLS AND LIBRARIES USED:** This project requires the following components:
 
 **STREAMLIT:** Streamlit library was used to create a user-friendly UI that enables users to interact with the programme and carry out data retrieval and analysis operations.
 
@@ -17,7 +17,7 @@
 **YOUTUBE DATA SCRAPPING AND ITS ETHICAL PERSPECTIVE:** When engaging in the scraping of YouTube content, it is crucial to approach it ethically and responsibly. Respecting YouTube's terms and conditions, obtaining appropriate authorization, and adhering to data protection regulations are fundamental considerations. The collected data must be handled responsibly, ensuring privacy, confidentiality, and preventing any form of misuse or misrepresentation. Furthermore, it is important to take into account the potential impact on the platform and its community, striving for a fair and sustainable scraping process. By following these ethical guidelines, we can uphold integrity while extracting valuable insights from YouTube data.
 
 
-**REQUIRED LIBRARIES:**
+## **REQUIRED LIBRARIES:**
 
 1.googleapiclient.discovery
 
