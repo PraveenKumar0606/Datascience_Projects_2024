@@ -8,7 +8,7 @@ This project aims to analyze Airbnb data using MongoDB Atlas, perform data clean
 
 ## Libraries/Modules needed for the project!
 
-Plotly, Seaborn - (To plot and visualize the data)
+Plotly - (To plot and visualize the data)
 
 Pandas - (To Clean and maipulate the data)
 
