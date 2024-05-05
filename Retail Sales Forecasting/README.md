@@ -36,9 +36,7 @@ This project aims to not only enhance sales forecasting accuracy but also empowe
 Briefly describe the purpose and goals of your sales forecasting project. Include any relevant background information that will help readers understand the context.
 
 ## Exploratory Data Analysis (EDA)
-The EDA phase explores the dataset, uncovering patterns, outliers, and trends. Key findings from the EDA process include [summarize key insights].
+The EDA phase explores the dataset, uncovering patterns, outliers, and trends. 
 ## Sales Prediction
-The sales prediction module utilizes [mention the models or algorithms used] to forecast store sales. [Discuss any notable results or challenges encountered during the prediction process.]
-
-
+The sales prediction module utilizes XGBRegressor to forecast store sales.
 
