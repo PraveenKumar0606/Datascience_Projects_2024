@@ -1,4 +1,4 @@
-# Retail Sales Forecasting Project
+# WALMART SUPERSTORE SALES ANALYSIS
 ## Overview
 This sales forecasting project aims to address key objectives for optimizing department-wide sales at various stores, with a focus on enhancing predictive accuracy, modeling the impact of markdowns during holiday weeks, and providing actionable insights.
 ## Objectives:
