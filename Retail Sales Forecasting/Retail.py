@@ -95,5 +95,10 @@ if selected=='PREDICTION':
 
     st.markdown(f'<div style="background-color: yellow; border: 2px solid black; border-radius: 5px; padding: 10px; font-size: 32px; color: red;">Predicted Weekly Sales of the Retail Store is <span style="color: black;"> ${price} </span></div>', unsafe_allow_html=True) 
        
-
+if selected=='DASHBOARD EDA':
+    
+    st.write(" ")
+    st.image("c:/Users/Asokamani/Pictures/Sales Forecasting Dashboard.jpg",width=1200) 
+       
+    
         
